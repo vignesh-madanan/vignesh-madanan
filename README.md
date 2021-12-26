@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vignesh Madanan</h1>
 <h3 align="center">Data Engineer | Machine Learning | MLOps</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vignesh-madanan" alt="vignesh-madanan" /></a> </p>
-
 - 🌱 I’m currently learning **GraphQL, Spark, Kafka, GoLang**
 
 - 👯 I’m looking to collaborate on **Opensource Projects in C++ and Python**
